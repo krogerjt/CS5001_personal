@@ -37,3 +37,6 @@ May 2019-August 2019<br>
 * C++
 * C
 * Lisp/Scheme
+<br><br>
+### Project Sought
+Seeking a project involving data analysis. Specifically looking for project involving Deep Learning techniques and other related algorithims. Interested in projects 44-46 in *Research Project List 07-21-2021 2.pdf* in the CS5001 Canvass course.
